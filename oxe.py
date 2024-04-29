@@ -1,0 +1,2 @@
+kk = input()
+print(kk)
