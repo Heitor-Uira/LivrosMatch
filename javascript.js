@@ -36,6 +36,5 @@ function panela(){
   alert("Isso é uma panela!")
 }
 function mães() {
- for (let i = 0; if i < 20; i++;)
- document.write(i)
+ alert("Você é a melhor mãe do mundo!")
 }
