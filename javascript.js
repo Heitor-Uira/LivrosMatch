@@ -35,6 +35,6 @@ function amanha(){
 function panela(){
   alert("Isso é uma panela!")
 }
-function mães() {
+function () borakk{
  alert("Você é a melhor mãe do mundo!")
 }
