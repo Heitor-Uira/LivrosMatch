@@ -35,3 +35,7 @@ function amanha(){
 function panela(){
   alert("Isso é uma panela!")
 }
+function mães() {
+ for (let i = 0; if i < 20; i++;)
+ document.write(i)
+}
